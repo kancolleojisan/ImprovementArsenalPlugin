@@ -17,7 +17,7 @@ namespace ImprovementArsenalPlugin
             new IATable { Equip = "10cm連装高角砲+高射装置", Info = "3/4+10cm連装高角砲(2)", Days = new string[] {"月","火","水","木"}, ShipName = "秋月"},
             new IATable { Equip = "10cm連装高角砲+高射装置", Info = "3/4+10cm連装高角砲(2)", Days = new string[] {"月","火","水","木"}, ShipName = "初月"},
             new IATable { Equip = "10cm連装高角砲+高射装置", Info = "3/4+10cm連装高角砲(2)", Days = new string[] {"日","木","金","土"}, ShipName = "照月"},
-            new IATable { Equip = "QF 4.7inch砲 Mk.XII改", Info = "4+12.7cm連装砲(2)/6+12.7cm連装砲B型改二(2)", Days = new string[] {"日","木","金","土"}, ShipName = "Jervis"},
+            new IATable { Equip = "QF 4.7inch砲 Mk.XII改", Info = "4+12.7cm連装砲(2)/6+12.7cm連装砲B型改二(2)", Days = new string[] {"日","月","火","水","金","土"}, ShipName = "Jervis"},
             new IATable { Equip = "14cm単装砲", Info = "1/1+14cm単装砲(1)/3+14cm単装砲(2)　⇒14cm連装砲", Days = new string[] {"日","月","火","水","木","金","土"}, ShipName = ""},
             new IATable { Equip = "14cm連装砲", Info = "1/2+14cm連装砲", Days = new string[] {"月","木"}, ShipName = "夕張"},
             new IATable { Equip = "15.2cm連装砲", Info = "2/2+15.2cm連装砲(1)/4+15.2cm連装砲(1)　⇒15.2cm連装砲改", Days = new string[] {"木","金","土"}, ShipName = "阿賀野"},
